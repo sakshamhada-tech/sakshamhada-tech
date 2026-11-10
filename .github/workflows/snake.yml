@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
