@@ -44,16 +44,12 @@ break things, fix things, learn things
 ### `> ./stats.sh`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshamhada-tech&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamhada-tech&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41" alt="top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sakshamhada-tech&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41&stroke=00FF41&border=00FF41" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamhada-tech&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="activity graph" />
 </p>
 
 ---
